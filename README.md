@@ -1,6 +1,6 @@
 # Hepatitis Delta Alignment Pipeline
 
-This is a Nextflow pipeline to align Hepatitis delta virus genomes to a reference genome from GenBank. It was developed for the NGS Data Analysis module (July 2025, by Fynn Freyer).
+This is a Nextflow pipeline to align Hepatitis delta virus genomes to a reference genome from GenBank.
 
 ## 🧬 What It Does
 
